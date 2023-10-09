@@ -37,3 +37,8 @@ por ultimo copiar el texto al crear el repo
     git remote add origin https://github.co..........................
     git branch -M main
     git push -u origin main
+
+# Una ves creado el git el commit los hacemos con los siguientes comandos
+git add .
+git commit -m "titulo"
+git push
